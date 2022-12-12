@@ -1,0 +1,73 @@
+#login{
+	background-color: #2727f7;
+}
+
+.navbar{
+	height: 70px !important;
+	background-color: #3b52eb !important;
+}
+.mynav .nav-item{
+	font-size: 19px;
+
+}
+
+.mynav li a:hover{
+	color: black !important;
+
+}
+
+.mylogout li a:hover{
+	color: black !important;
+
+}
+
+.mylogout li a{
+	margin-left: 700px !important;
+	font-size: 19px;
+
+}
+
+ul li a{
+	color: #fff !important;
+
+}
+
+.form-inline .form-control{
+	font-size: 16px;
+}
+
+.navbar{
+	background-color: blue;
+	
+}
+
+.form-inline .form-control{
+	width: 250px;
+	height: 40px !important;
+
+
+}
+
+.nav .myproject{
+	background-color: #3b52eb;
+}
+
+.content-wrapper h5{
+	
+	padding-top: 100px !important;
+}
+
+.dataTables_paginate ul li a{
+	color:black !important;
+}
+
+.nav .activeme{
+	background-color: #3b52eb;
+}
+.image{
+        display: inline-block;
+    }
+
+.description{
+        bottom: 0;
+}
